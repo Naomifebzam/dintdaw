@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 40%;
+}
+
+
+
+.color-primary-0 { color: #DA742B }	/* Main Primary color */
+.color-primary-1 { color: #FFB581 }
+.color-primary-2 { color: #ED9353 }
+.color-primary-3 { color: #B15513 }
+.color-primary-4 { color: #8B3A00 }
+
+.color-complement-0 { color: #1B897A }	/* Main Complement color */
+.color-complement-1 { color: #58AFA3 }
+.color-complement-2 { color: #349487 }
+.color-complement-3 { color: #0C6F62 }
+.color-complement-4 { color: #00574B }
