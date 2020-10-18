@@ -1,0 +1,36 @@
+
+body{
+    background-color: grey;
+    
+}
+
+
+.p1{
+    font-family: 'Lobster', serif;
+    background-color: aquamarine;
+}
+
+.p2{
+    font-family: 'Dancing Script', cursive;
+    background-color: aquamarine;
+}
+
+.p3{
+    font-family: 'Cinzel', serif;
+    font-family: 'Dancing Script', cursive;
+    color: aquamarine;
+    font-size: 28px;
+}
+
+.p4{
+    font-family: 'Cinzel', serif;
+font-family: 'Cookie', cursive;
+font-family: 'Dancing Script', cursive;
+background-color: aquamarine;
+font-size: 20px;
+}
+
+h5{
+    background-color: white;
+}
+
